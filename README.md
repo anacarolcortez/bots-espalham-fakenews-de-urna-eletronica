@@ -1,4 +1,5 @@
-# Anatomia dos Bots: Como perfis automatizados atacaram as urnas eletrônicas nas Eleições de 2022
+# Anatomia dos Bots
+*Como perfis automatizados atacaram as urnas eletrônicas nas Eleições de 2022*
 
 Entre abril e outubro de 2022, redes articuladas de bots concentraram esforços para minar a credibilidade do sistema eleitoral. disseminando fakenews sobre as urnas eletrônicas. O pico de atividade ocorreu em junho, disparando narrativas infladas artificialmente por perfis com comportamento clássico de automação: altíssimo volume de postagens diárias concentrado em contas com pouquíssimos seguidores. 
 
@@ -23,3 +24,4 @@ Após rodar o algoritmo, fiz um refinamento das classificações e criei um data
 * Palavras-chave: Os termos mais utilizados nos posts negativos sobre urna eletrônica publicados por perfis automatizados remetem a fakenews, fraude, STF, TSE e Bolsonaro.
 
 ## Dashboard em Power BI:
+![Dashboard do Power BI](print_dashboard.png)
