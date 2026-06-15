@@ -7,7 +7,7 @@ A Tática de Engajamento: A análise revela que o foco não era o debate, mas o 
 
 ## Sobre a pesquisa
 
-Este repositório é um exercício de jornalismo e análise de dados, considerando uma base de 25.659 tweets que eu coletei entre 27 de abril e 2 de outubro de 2022, quando a rede social "X" (ex-Twitter) ainda disponibilizada uma API gratuita que permitia o streaming de postagens. 
+Este repositório é um exercício de jornalismo e análise de dados, considerando uma base de 25.659 tweets que eu coletei entre 27 de abril e 2 de outubro de 2022, quando a rede social "X" (ex-Twitter) ainda disponibilizava uma API gratuita que permitia o streaming de postagens. 
 
 Coletei tweets especificamente sobre "urna eletrônica", pois minha meta era avaliar a ação de perfis automatizados na disseminação de fakenews envolvendo nossa "pilili" nas polêmicas eleições passadas. 
 
